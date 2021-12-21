@@ -8,7 +8,7 @@
 
 ## Analysis and Challenges
     1. Analysis was performed by using a pivot table to observe trends in theater outcomes based upon launch date. 
-![Pivot Table](Resources/Pivot.png)
+![Pivot Table](Resources/pivot.png)
 
 
     2. A line chart was used to evaluate outcomes based upon financial goals.  
