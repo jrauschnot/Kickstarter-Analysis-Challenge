@@ -13,7 +13,7 @@
 * There were no challenges encountered during analysis of the data but extrapolation of the information may need to be adjusted on a country-by-country basis depending on demographics and other interests. 
 
 ### Analysis of Outcomes Based on Launch Date
-! [Outcomes based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
+! [Outcomes based on Launch Date](https://github.com/jrauschnot/Kickstarter-Analysis-Challenge/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 ![Outcomes based on Goals](https://github.com/jrauschnot/Kickstarter-Analysis-Challenge/blob/main/Resources/Outcomes_vs_Goals.png)
 
